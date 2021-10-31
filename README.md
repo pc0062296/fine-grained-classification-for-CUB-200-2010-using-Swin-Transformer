@@ -16,11 +16,16 @@ By Ya-Shu Yang
 
 ### 2. Prepare data
 
-In the work, we use data from a publicly available datasets:
+In the work, I use data from a publicly available datasets:
 
 + [CUB-200-2010](http://www.vision.caltech.edu/visipedia/CUB-200.html)
 
 Since this code is for NCTU VRDL homework, the dataset is adjusted here.
+Please download the training images and testing images from CodaLab competition:
+https://competitions.codalab.org/my/datasets/download/83f7141a-641e-4e32-8d0c-42b482457836
+Put the training images to dataset/train, and put the testing images to dataset/test
+
+
 
 ### 3. Install required packages
 
@@ -41,6 +46,11 @@ python train.py
 ### 5. Reproduce
 
 To Reproduce the result:
+
+Please download the pre-trained model from:
+
+http:
+and put it output/hw1model
 
 ```bash
 python inference.py
