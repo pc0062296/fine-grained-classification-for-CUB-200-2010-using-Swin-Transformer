@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+tqdm
+tensorboard
+ml-collections
+timm
