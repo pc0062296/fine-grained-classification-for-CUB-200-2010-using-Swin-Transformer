@@ -32,11 +32,20 @@ pip3 install -r requirements.txt
 
 ### 4. Train
 
-To train TransFG on the dataset with 1 gpus in FP-16 mode for 10000 steps run:
+To train on the dataset with 1 gpu in FP-16 mode for 10000 steps run:
 
 ```bash
 python train.py
 ```
+
+### 5. Reproduce
+
+To Reproduce the result:
+
+```bash
+python inference.py
+```
+
 
 ## Reference
 
