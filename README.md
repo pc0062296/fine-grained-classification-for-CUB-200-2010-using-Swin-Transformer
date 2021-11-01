@@ -10,8 +10,9 @@ By Ya-Shu Yang
 + timm 0.4.12
 
 ## Usage
-### 1. Download pre-trained models from git
+### 1. Download pre-trained models from google drive
 
+https://drive.google.com/file/d/1---aAUUQkh8-ueV-I6Ux4FFcvc_G3HJZ/view?usp=sharing
 
 
 ### 2. Prepare data
@@ -49,7 +50,8 @@ To Reproduce the result:
 
 Please download the pre-trained model from:
 
-http:
+https://drive.google.com/file/d/1---aAUUQkh8-ueV-I6Ux4FFcvc_G3HJZ/view?usp=sharing
+
 and put it output/hw1model
 
 ```bash
