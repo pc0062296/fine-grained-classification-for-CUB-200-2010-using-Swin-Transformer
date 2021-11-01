@@ -58,6 +58,10 @@ and put it output/hw1model
 python inference.py
 ```
 
+### 6. Performance
+
+95.5% 1st acc on loacl testing data
+92.89% acc on CodaLab
 
 ## Reference
 
